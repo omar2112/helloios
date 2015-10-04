@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         
         let buttonText = sender.currentTitle!
         mainText.text = "Go Dawgs!"
-        println("Button Text = \(buttonText)")
+        print("Button Text = \(buttonText)")
         
     }
 
